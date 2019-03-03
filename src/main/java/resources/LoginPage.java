@@ -11,7 +11,7 @@ public class LoginPage {
 	By password=By.id("user_password");
 	By lgnbtn=By.xpath(".//*[@id='new_user']/div[3]/input");
 	
-	
+	//adding a comment
 	
 	public LoginPage(WebDriver driver) {
 		// TODO Auto-generated constructor stub
